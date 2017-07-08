@@ -228,7 +228,7 @@ public class RegrasApriori extends javax.swing.JFrame {
         for(int i=0; i<atributosRemovidos.length;i++){
             removidos = removidos + String.valueOf(atributosRemovidos[i]+1) + ",";
         }
-        //System.out.println(removidos);
+       //System.out.println(removidos);
         
         
         try {
